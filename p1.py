@@ -1,3 +1,5 @@
+# Get area of Parallelogram
+
 base = float(input("Get length of base ?"))
 height = float(input("Get length of height ?"))
 area = base * height
