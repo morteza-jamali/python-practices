@@ -1,3 +1,6 @@
+# Source link : https://edabit.com/challenge/HYjQKDXFfeppcWmLX
+# Level : Easy
+
 def is_curzon(number):
     num1 = 2 ** float(number) + 1
     num2 = 2 * float(number) + 1

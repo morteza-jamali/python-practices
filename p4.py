@@ -1,3 +1,6 @@
+# Source link : https://edabit.com/challenge/8pDH2SRutPoaQghgc
+# Level : Easy
+
 relations = {
     "Darth Vader" : "father" ,
     "Leia" : "sister" ,
